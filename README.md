@@ -7,7 +7,7 @@
 - Capricorniano.
 - Campinas - SP, Brasil.
 - Analise e Desenvolvimento de Sistema.
-- Meu objetivo é se tornar um desenvolvedor full stack.
+- Meu objetivo é ser um desenvolvedor full stack.
 
 
 ### Tecnologias:
