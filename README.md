@@ -12,15 +12,15 @@
 
 ### Tecnologias:
 
-<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">&nbsp;&nbsp;
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">&nbsp;&nbsp;
-<img height="64px" src="https://cdn.svgporn.com/logos/php.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">&nbsp;&nbsp;
-<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">&nbsp;&nbsp;
-<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">&nbsp;&nbsp;
-<img height=64px src="https://cdn.svgporn.com/logos/flutter.svg">&nbsp;&nbsp;<img height=64px src="https://cdn.svgporn.com/logos/spring.svg">&nbsp;&nbsp;
-<img height=64px src="https://cdn.svgporn.com/logos/mysql.svg">&nbsp;&nbsp;<img height=64px src="https://cdn.svgporn.com/logos/firebase.svg">&nbsp;&nbsp;
-<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">&nbsp;&nbsp;
-<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">&nbsp;&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/php.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height=64px src="https://cdn.svgporn.com/logos/flutter.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=64px src="https://cdn.svgporn.com/logos/spring.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height=64px src="https://cdn.svgporn.com/logos/mysql.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=64px src="https://cdn.svgporn.com/logos/firebase.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAquinoDev&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
