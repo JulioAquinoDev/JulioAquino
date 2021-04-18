@@ -20,3 +20,5 @@
 |            | PHP      |                |            |
 
 ![Julio Aquino Github Stats](https://github-readme-stats.vercel.app/api?username=JulioAquinoDev&hide=contribs,prs&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAquinoDev&theme=radical&title_color=8E2DE2&text_color=fff)
