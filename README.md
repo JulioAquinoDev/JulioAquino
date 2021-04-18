@@ -18,7 +18,7 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">&nbsp;&nbsp;
 <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">&nbsp;&nbsp;
 <img height=64px src="https://cdn.svgporn.com/logos/flutter.svg">&nbsp;&nbsp;<img height=64px src="https://cdn.svgporn.com/logos/spring.svg">&nbsp;&nbsp;
-<img height=64px src="https://https://cdn.svgporn.com/logos/mysql.svg">&nbsp;&nbsp;<img height=64px src="https://cdn.svgporn.com/logos/firebase.svg">&nbsp;&nbsp;
+<img height=64px src="https://cdn.svgporn.com/logos/mysql.svg">&nbsp;&nbsp;<img height=64px src="https://cdn.svgporn.com/logos/firebase.svg">&nbsp;&nbsp;
 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">&nbsp;&nbsp;
 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">&nbsp;&nbsp;
 
