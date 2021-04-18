@@ -19,4 +19,4 @@
 |            | Dart     |                |            |
 |            | PHP      |                |            |
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=JulioAquinoDev&hide=contribs,prs&count_private=true&show_icons=true)
+![Julio Aquino Github Stats](https://github-readme-stats.vercel.app/api?username=JulioAquinoDev&hide=contribs,prs&count_private=true&show_icons=true)
