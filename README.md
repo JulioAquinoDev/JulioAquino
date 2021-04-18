@@ -12,15 +12,15 @@
 
 ### Tecnologias:
 
-<img height="64px" src="https://cdn.svgporn.com/logos/java.svg"> &nbsp <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">&nbsp
-<img height=64px src="https://https://cdn.svgporn.com/logos/mysql.svg"> &nbsp <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp
-<img height="64px" src="https://cdn.svgporn.com/logos/python.svg"> &nbsp <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">&nbsp
-<img height=64px src="https://cdn.svgporn.com/logos/firebase.svg"> &nbsp <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-<img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> &nbsp <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp
-<img height=64px src="https://cdn.svgporn.com/logos/spring.svg"> &nbsp <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">&nbsp
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> &nbsp <img height=64px src="https://cdn.svgporn.com/logos/flutter.svg">&nbsp
-<img height="64px" src="https://cdn.svgporn.com/logos/php.svg"> &nbsp <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">&nbsp
-<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> &nbsp
+<img height="64px" src="https://cdn.svgporn.com/logos/java.svg"> &nbsp; <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">&nbsp;
+<img height=64px src="https://https://cdn.svgporn.com/logos/mysql.svg"> &nbsp; <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/python.svg"> &nbsp; <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">&nbsp;
+<img height=64px src="https://cdn.svgporn.com/logos/firebase.svg"> &nbsp; <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> &nbsp; <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp;
+<img height=64px src="https://cdn.svgporn.com/logos/spring.svg"> &nbsp; <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> &nbsp; <img height=64px src="https://cdn.svgporn.com/logos/flutter.svg">&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/php.svg"> &nbsp; <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> &nbsp;
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAquinoDev&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
