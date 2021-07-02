@@ -1,7 +1,7 @@
 # Júlio César Aquino
 
 
-### Seja bem vindo ao meu perfil!
+### Seja bem-vindo ao meu perfil!
 
 - 26 Anos.
 - Capricorniano.
