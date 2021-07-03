@@ -1,16 +1,16 @@
 # Júlio César Aquino
 
 
-### Seja bem vindo ao meu perfil!
+### Welcome to my profile!
 
-- 26 Anos.
-- Capricorniano.
-- Campinas - SP, Brasil.
-- Analise e Desenvolvimento de Sistema.
-- Meu objetivo é se tornar um desenvolvedor full stack.
+- Born in 1994.
+- Campinas - SP, Brazil. 
+- Always looking for knowledge.
+- Analysis and systems development.
+- My goal is to become a Full Stack developer.
 
 
-### Tecnologias:
+### Technologies:
 
 <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
